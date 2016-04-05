@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="AuthorRef_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="Bibliography.behavior.AuthorRef_BehaviorDescriptor" />
+    </file>
+    <file name="Author_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="Bibliography.behavior.Author_BehaviorDescriptor" />
+    </file>
+    <file name="AuthorsElement_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="Bibliography.behavior.AuthorsElement_BehaviorDescriptor" />
+    </file>
+    <file name="BiblioElement_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="Bibliography.behavior.BiblioElement_BehaviorDescriptor" />
+    </file>
+    <file name="BiblioRecord_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="Bibliography.behavior.BiblioRecord_BehaviorDescriptor" />
+    </file>
+    <file name="Bibliography_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="Bibliography.behavior.Bibliography_BehaviorDescriptor" />
+    </file>
+    <file name="ConceptWithBehaviour_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="Bibliography.behavior.ConceptWithBehaviour_BehaviorDescriptor" />
+    </file>
+    <file name="Person_BehaviorDescriptor.java">
+      <unit at="13,0,25,0" name="Bibliography.behavior.Person_BehaviorDescriptor" />
+    </file>
+    <file name="PublicationYear_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="Bibliography.behavior.PublicationYear_BehaviorDescriptor" />
+    </file>
+    <file name="TitleElement_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="Bibliography.behavior.TitleElement_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

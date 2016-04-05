@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="TextGenAspectDescriptor.java">
+      <unit at="15,0,54,0" name="Bibliography.textGen.TextGenAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:013b4fb5-e44e-4aab-8cd4-7c19f49b1fe7(Bibliography.textGen)/2795522857507800214">
+    <file name="Bibliography_TextGen.java">
+      <node id="2795522857507800214" at="12,54,13,55" concept="5" />
+      <node id="2795522857507803183" at="15,42,16,17" concept="6" />
+      <node id="2795522857507800214" at="15,0,18,0" concept="4" trace="getExtension#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="2795522857507800214" at="11,0,15,0" concept="4" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2795522857507800214" at="12,54,13,55">
+        <var name="tgs" id="2795522857507800214" />
+      </scope>
+      <scope id="2795522857507800214" at="15,42,16,17" />
+      <scope id="2795522857507800214" at="15,0,18,0">
+        <var name="node" id="2795522857507800214" />
+      </scope>
+      <scope id="2795522857507800214" at="11,0,15,0">
+        <var name="ctx" id="2795522857507800214" />
+      </scope>
+      <unit id="2795522857507800214" at="10,0,19,0" name="Bibliography.textGen.Bibliography_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="2795522857507803183" at="50,67,51,17" concept="6" />
+    </file>
+  </root>
+  <root nodeRef="r:013b4fb5-e44e-4aab-8cd4-7c19f49b1fe7(Bibliography.textGen)/2795522857507803618">
+    <file name="bibliography.java">
+      <node id="2795522857507803618" at="16,75,17,55" concept="5" />
+      <node id="2795522857507804589" at="18,214,19,34" concept="1" />
+      <node id="2795522857507804617" at="19,34,20,20" concept="1" />
+      <node id="2795522857507803618" at="23,67,24,55" concept="5" />
+      <node id="2795522857507978124" at="24,55,25,17" concept="1" />
+      <node id="2795522857507803618" at="25,17,26,29" concept="1" />
+      <node id="2795522857507803618" at="26,29,27,178" concept="1" />
+      <node id="2795522857507803618" at="27,178,28,21" concept="1" />
+      <node id="2795522857507803618" at="30,76,31,55" concept="5" />
+      <node id="2795522857507978704" at="31,55,32,17" concept="1" />
+      <node id="2795522857507803618" at="32,17,33,28" concept="1" />
+      <node id="2795522857507803618" at="33,28,34,25" concept="1" />
+      <node id="2795522857507803618" at="34,25,35,21" concept="1" />
+      <node id="2795522857507803618" at="37,69,38,55" concept="5" />
+      <node id="2795522857507803618" at="38,55,39,24" concept="1" />
+      <node id="2795522857507803618" at="39,24,40,168" concept="1" />
+      <node id="2795522857507803618" at="40,168,41,20" concept="1" />
+      <node id="2795522857507803618" at="41,20,42,18" concept="1" />
+      <node id="2795522857507954007" at="42,18,43,25" concept="1" />
+      <node id="2795522857507803618" at="43,25,44,44" concept="1" />
+      <node id="2795522857507954048" at="44,44,45,18" concept="5" />
+      <node id="2795522857507954089" at="45,18,46,221" concept="5" />
+      <node id="2795522857507966487" at="47,221,48,30" concept="1" />
+      <node id="2795522857507966581" at="49,28,50,24" concept="1" />
+      <node id="2795522857507966581" at="50,24,51,22" concept="1" />
+      <node id="2795522857507803618" at="53,5,54,44" concept="1" />
+      <node id="2795522857507967685" at="54,44,55,25" concept="1" />
+      <node id="2795522857507803618" at="55,25,56,20" concept="1" />
+      <node id="2795522857507803618" at="56,20,57,18" concept="1" />
+      <node id="2795522857507803618" at="59,69,60,55" concept="5" />
+      <node id="2795522857507803618" at="60,55,61,182" concept="1" />
+      <node id="2795522857507803618" at="61,182,62,20" concept="1" />
+      <node id="2795522857507970951" at="63,196,64,186" concept="1" />
+      <node id="2795522857507803618" at="65,5,66,20" concept="1" />
+      <node id="2795522857507803618" at="66,20,67,183" concept="1" />
+      <node id="2795522857507803618" at="69,71,70,55" concept="5" />
+      <node id="2795522857507972541" at="70,55,71,17" concept="1" />
+      <node id="2795522857507803618" at="71,17,72,31" concept="1" />
+      <node id="2795522857507803618" at="73,5,74,206" concept="5" />
+      <node id="2795522857507803618" at="74,206,75,70" concept="5" />
+      <node id="2795522857507803618" at="76,37,77,29" concept="1" />
+      <node id="2795522857507803618" at="78,31,79,28" concept="1" />
+      <node id="2795522857507803618" at="82,5,83,21" concept="1" />
+      <node id="2795522857507803618" at="85,69,86,55" concept="5" />
+      <node id="2795522857507803618" at="88,75,89,55" concept="5" />
+      <node id="2795522857507803618" at="91,67,92,88" concept="7" />
+      <node id="2795522857507803618" at="92,88,93,102" concept="7" />
+      <node id="2795522857507803618" at="93,102,94,101" concept="7" />
+      <node id="2795522857507803618" at="94,101,95,28" concept="7" />
+      <node id="2795522857507803618" at="97,59,98,88" concept="7" />
+      <node id="2795522857507803618" at="98,88,99,102" concept="7" />
+      <node id="2795522857507803618" at="99,102,100,101" concept="7" />
+      <node id="2795522857507803618" at="100,101,101,28" concept="7" />
+      <node id="2795522857507803618" at="103,68,104,88" concept="7" />
+      <node id="2795522857507803618" at="104,88,105,102" concept="7" />
+      <node id="2795522857507803618" at="105,102,106,101" concept="7" />
+      <node id="2795522857507803618" at="106,101,107,28" concept="7" />
+      <node id="2795522857507803618" at="109,61,110,88" concept="7" />
+      <node id="2795522857507803618" at="110,88,111,102" concept="7" />
+      <node id="2795522857507803618" at="111,102,112,101" concept="7" />
+      <node id="2795522857507803618" at="112,101,113,28" concept="7" />
+      <node id="2795522857507803618" at="115,61,116,88" concept="7" />
+      <node id="2795522857507803618" at="116,88,117,102" concept="7" />
+      <node id="2795522857507803618" at="117,102,118,101" concept="7" />
+      <node id="2795522857507803618" at="118,101,119,28" concept="7" />
+      <node id="2795522857507803618" at="121,63,122,88" concept="7" />
+      <node id="2795522857507803618" at="122,88,123,102" concept="7" />
+      <node id="2795522857507803618" at="123,102,124,101" concept="7" />
+      <node id="2795522857507803618" at="124,101,125,28" concept="7" />
+      <node id="2795522857507803618" at="127,61,128,88" concept="7" />
+      <node id="2795522857507803618" at="128,88,129,102" concept="7" />
+      <node id="2795522857507803618" at="129,102,130,101" concept="7" />
+      <node id="2795522857507803618" at="130,101,131,28" concept="7" />
+      <node id="2795522857507803618" at="133,67,134,88" concept="7" />
+      <node id="2795522857507803618" at="134,88,135,102" concept="7" />
+      <node id="2795522857507803618" at="135,102,136,101" concept="7" />
+      <node id="2795522857507803618" at="136,101,137,28" concept="7" />
+      <node id="2795522857507970937" at="139,55,140,43" concept="6" />
+      <node id="2795522857507968865" at="62,20,65,5" concept="3" />
+      <node id="2795522857507803618" at="77,29,80,9" concept="3" />
+      <node id="2795522857507803618" at="85,0,88,0" concept="8" trace="author#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <node id="2795522857507803618" at="88,0,91,0" concept="8" trace="authorRef#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <node id="2795522857507970937" at="139,0,142,0" concept="8" trace="isNotEmptyString#(Ljava/lang/String;)Z" />
+      <node id="2795522857507803922" at="17,55,21,5" concept="2" />
+      <node id="2795522857507966579" at="48,30,52,7" concept="3" />
+      <node id="2795522857507803618" at="75,70,81,7" concept="2" />
+      <node id="2795522857507803618" at="91,0,97,0" concept="8" trace="bibliography#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/textGen/SNodeTextGen;)V" />
+      <node id="2795522857507803618" at="97,0,103,0" concept="8" trace="title#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/textGen/SNodeTextGen;)V" />
+      <node id="2795522857507803618" at="103,0,109,0" concept="8" trace="publicationYear#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/textGen/SNodeTextGen;)V" />
+      <node id="2795522857507803618" at="109,0,115,0" concept="8" trace="record#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/textGen/SNodeTextGen;)V" />
+      <node id="2795522857507803618" at="115,0,121,0" concept="8" trace="person#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/textGen/SNodeTextGen;)V" />
+      <node id="2795522857507803618" at="121,0,127,0" concept="8" trace="authors#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/textGen/SNodeTextGen;)V" />
+      <node id="2795522857507803618" at="127,0,133,0" concept="8" trace="author#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/textGen/SNodeTextGen;)V" />
+      <node id="2795522857507803618" at="133,0,139,0" concept="8" trace="authorRef#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/textGen/SNodeTextGen;)V" />
+      <node id="2795522857507803618" at="16,0,23,0" concept="8" trace="bibliography#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <node id="2795522857507803618" at="23,0,30,0" concept="8" trace="title#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <node id="2795522857507803618" at="30,0,37,0" concept="8" trace="publicationYear#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <node id="2795522857507965790" at="46,221,53,5" concept="2" />
+      <node id="2795522857507803618" at="59,0,69,0" concept="8" trace="person#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <node id="2795522857507803618" at="72,31,82,5" concept="0" />
+      <node id="2795522857507803618" at="69,0,85,0" concept="8" trace="authors#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <node id="2795522857507803618" at="37,0,59,0" concept="8" trace="record#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2795522857507968867" at="63,196,64,186" />
+      <scope id="2795522857507803618" at="78,31,79,28" />
+      <scope id="2795522857507803618" at="85,69,86,55">
+        <var name="tgs" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="88,75,89,55">
+        <var name="tgs" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507970937" at="139,55,140,43" />
+      <scope id="2795522857507803924" at="18,214,20,20" />
+      <scope id="2795522857507966581" at="49,28,51,22" />
+      <scope id="2795522857507803618" at="85,0,88,0">
+        <var name="author" id="2795522857507803776" />
+        <var name="ctx" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="88,0,91,0">
+        <var name="authorRef" id="2795522857507803818" />
+        <var name="ctx" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507970937" at="139,0,142,0">
+        <var name="str" id="2795522857507970937" />
+      </scope>
+      <scope id="2795522857507803922" at="17,55,21,5">
+        <var name="r" id="2795522857507803923" />
+      </scope>
+      <scope id="2795522857507803618" at="76,37,80,9" />
+      <scope id="2795522857507803618" at="91,67,95,28" />
+      <scope id="2795522857507803618" at="97,59,101,28" />
+      <scope id="2795522857507803618" at="103,68,107,28" />
+      <scope id="2795522857507803618" at="109,61,113,28" />
+      <scope id="2795522857507803618" at="115,61,119,28" />
+      <scope id="2795522857507803618" at="121,63,125,28" />
+      <scope id="2795522857507803618" at="127,61,131,28" />
+      <scope id="2795522857507803618" at="133,67,137,28" />
+      <scope id="2795522857507803618" at="16,75,21,5">
+        <var name="tgs" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="23,67,28,21">
+        <var name="tgs" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="30,76,35,21">
+        <var name="tgs" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507965794" at="47,221,52,7" />
+      <scope id="2795522857507803618" at="75,70,81,7">
+        <var name="item" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="91,0,97,0">
+        <var name="biblio" id="2795522857507803626" />
+        <var name="ctx" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="97,0,103,0">
+        <var name="ctx" id="2795522857507803618" />
+        <var name="title" id="2795522857507803641" />
+      </scope>
+      <scope id="2795522857507803618" at="103,0,109,0">
+        <var name="ctx" id="2795522857507803618" />
+        <var name="year" id="2795522857507803658" />
+      </scope>
+      <scope id="2795522857507803618" at="109,0,115,0">
+        <var name="ctx" id="2795522857507803618" />
+        <var name="record" id="2795522857507803680" />
+      </scope>
+      <scope id="2795522857507803618" at="115,0,121,0">
+        <var name="ctx" id="2795522857507803618" />
+        <var name="person" id="2795522857507803707" />
+      </scope>
+      <scope id="2795522857507803618" at="121,0,127,0">
+        <var name="authors" id="2795522857507803739" />
+        <var name="ctx" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="127,0,133,0">
+        <var name="author" id="2795522857507803776" />
+        <var name="ctx" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="133,0,139,0">
+        <var name="authorRef" id="2795522857507803818" />
+        <var name="ctx" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="16,0,23,0">
+        <var name="biblio" id="2795522857507803626" />
+        <var name="ctx" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="23,0,30,0">
+        <var name="ctx" id="2795522857507803618" />
+        <var name="title" id="2795522857507803641" />
+      </scope>
+      <scope id="2795522857507803618" at="30,0,37,0">
+        <var name="ctx" id="2795522857507803618" />
+        <var name="year" id="2795522857507803658" />
+      </scope>
+      <scope id="2795522857507965790" at="46,221,53,5">
+        <var name="element" id="2795522857507965792" />
+      </scope>
+      <scope id="2795522857507803618" at="59,69,67,183">
+        <var name="tgs" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="73,5,81,7">
+        <var name="collection" id="2795522857507803618" />
+        <var name="lastItem" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="59,0,69,0">
+        <var name="ctx" id="2795522857507803618" />
+        <var name="person" id="2795522857507803707" />
+      </scope>
+      <scope id="2795522857507803618" at="69,71,83,21">
+        <var name="tgs" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="69,0,85,0">
+        <var name="authors" id="2795522857507803739" />
+        <var name="ctx" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="37,69,57,18">
+        <var name="index" id="2795522857507954051" />
+        <var name="last" id="2795522857507954092" />
+        <var name="tgs" id="2795522857507803618" />
+      </scope>
+      <scope id="2795522857507803618" at="37,0,59,0">
+        <var name="ctx" id="2795522857507803618" />
+        <var name="record" id="2795522857507803680" />
+      </scope>
+      <unit id="2795522857507803618" at="15,0,143,0" name="Bibliography.textGen.bibliography" />
+    </file>
+  </root>
+  <root nodeRef="r:013b4fb5-e44e-4aab-8cd4-7c19f49b1fe7(Bibliography.textGen)/2795522857507977426">
+    <file name="AuthorRef_TextGen.java">
+      <node id="2795522857507977426" at="13,54,14,55" concept="5" />
+      <node id="2795522857507977444" at="14,55,15,210" concept="1" />
+      <node id="2795522857507977426" at="12,0,17,0" concept="4" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2795522857507977426" at="13,54,15,210">
+        <var name="tgs" id="2795522857507977426" />
+      </scope>
+      <scope id="2795522857507977426" at="12,0,17,0">
+        <var name="ctx" id="2795522857507977426" />
+      </scope>
+      <unit id="2795522857507977426" at="11,0,18,0" name="Bibliography.textGen.AuthorRef_TextGen" />
+    </file>
+  </root>
+</debug-info>
+
